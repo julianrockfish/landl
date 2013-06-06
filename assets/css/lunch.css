@@ -1,0 +1,40 @@
+
+body {
+  font-family: 'Copse', serif;
+	font-size: 20px;
+	line-height: 28px;
+	background: url('../image/shattered.png') repeat;
+
+}
+
+p {
+	color: #BF3030;
+	font-size: 22px;
+}
+
+.container {
+	width: 640px;
+	margin: 0 auto;
+}
+
+.description {
+	font-size: 14px; 
+	line-height: 16px;
+	font-family: helvetica;
+	color: black;
+}
+
+.mp3 {
+	margin: 0 auto;
+	text-align: center;
+}
+
+.youtube {
+	margin: 20px;
+}
+
+a {
+	font-size: 14px;
+	color: #6C39C1;
+}
+
